@@ -1,6 +1,6 @@
-# My wallpapers
+# 🏔 Wallpapers
 
-自作の壁紙を配布しています。
+Minimal design wallpapers
 
 ## LICENSE
 
