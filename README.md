@@ -6,4 +6,4 @@ Minimal design wallpapers
 
 ## LICENSE
 
-CC0
+<a href="LICENCE">CC0-1.0 License</a>
