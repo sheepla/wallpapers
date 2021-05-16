@@ -1,4 +1,4 @@
-# 🏔 Wallpapers
+<h1 align="center">🏔 Wallpapers</h1>
 
 Minimal design wallpapers
 
