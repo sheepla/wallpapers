@@ -1,8 +1,9 @@
+
 <h1 align="center">🏔 Wallpapers</h1>
 
 <p align="center">Minimal design wallpapers</p>
 
-<img src="iceberg-midnight.png" width="80%">
+<div align="center"><img src="iceberg-midnight.png" width="80%" /></div>
 
 ## LICENSE
 
