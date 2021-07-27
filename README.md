@@ -3,7 +3,7 @@
 
 <p align="center">Minimal design wallpapers</p>
 
-<div align="center"><img src="iceberg-midnight.png" width="80%" /></div>
+<div align="center"><img src="fetch.png" width="80%" /></div>
 
 ## LICENSE
 
